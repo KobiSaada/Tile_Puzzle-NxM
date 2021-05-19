@@ -1,0 +1,4 @@
+1U-1U-4&7L-5L-5U
+Num: 152
+Cost: 26
+0.336 seconds

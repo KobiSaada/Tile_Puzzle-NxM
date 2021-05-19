@@ -1,0 +1,4 @@
+10R-6U-10D-10L-7L-7U
+Num: 435
+Cost: 30
+0.394 seconds

@@ -1,0 +1,4 @@
+6D-2L-3L-4U-7U-8R-11D-7L-8U
+Num: 1336
+Cost: 45
+0.237 seconds

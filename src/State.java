@@ -1,5 +1,5 @@
 /**
- * this class represents a state in the colored tile puzzle game
+ * this class represents a state in the tile puzzle game
  */
 import java.util.ArrayList;
 import java.util.Arrays;

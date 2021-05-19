@@ -1,5 +1,5 @@
 # Tile_Puzzle-NxM
- Extended of the game tile puzzle in AI course with search algorithms
+ Extended of the game tile puzzle in AI course with search algorithms :mag_right:
 
 ## General overview
 
@@ -73,3 +73,5 @@ Run following command to run program:
 java Main input.txt output.txt
 ```
 This above command will take your input.txt created, run the program and algorithms chosen on it and create output.txt with the answers.
+
+Enjoy 	:smiley:
